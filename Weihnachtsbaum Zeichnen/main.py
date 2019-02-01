@@ -1,4 +1,4 @@
-eingabe = int(input())
+eingabe = int(input("Bitte die Breite des Baumes angeben:"))
 leer = " "
 x = "x"
 n = 1 
